@@ -1,2 +1,4 @@
 public class Arch1 {
+
+int var1;
 }
