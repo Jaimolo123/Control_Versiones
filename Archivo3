@@ -1,3 +1,4 @@
 publicc class Archivo3{
 
+int var2;
 }
